@@ -1,2 +1,3 @@
 # Pitch_Your_LineUp
-This is an app that generates a kids softball team randomly. This idea stemmed from a simple CLI app in C++
+This is an app that generates a kids softball team randomly. This idea stemmed from a simple CLI app in C++. 
+This is an app designed to generate a kid's baseball team's up randomly. To ensure fairness in the the line up, all positions are randomly selected with the following conditions: No player repeats a position, no player its out for more than 1 inning, and every player plays both a infield and outfield position.  The overall goal for this project is to allow coaches to generate lineups from the convienve of their phone. Next build phases are storing data through games and allowing to change position availability based on pre-determined conditons set by the coach. 
